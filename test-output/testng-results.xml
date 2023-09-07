@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1690" started-at="2023-08-03T07:03:39Z" finished-at="2023-08-03T07:03:41Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1690" started-at="2023-08-03T07:03:39Z" finished-at="2023-08-03T07:03:41Z">
+      <class name="org.basic.DemoApi">
+        <test-method status="PASS" signature="test1()[pri:0, instance:org.basic.DemoApi@44a664f2]" name="test1" duration-ms="1413" started-at="2023-08-03T07:03:39Z" finished-at="2023-08-03T07:03:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:org.basic.DemoApi@44a664f2]" name="test2" duration-ms="253" started-at="2023-08-03T07:03:40Z" finished-at="2023-08-03T07:03:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+      </class> <!-- org.basic.DemoApi -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
